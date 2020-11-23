@@ -8,7 +8,7 @@ iiiiii
 
 
 hello
-#include <stdlib.h>
-void main()
+#include <stdio.h>
+int main()
 
 hello2
