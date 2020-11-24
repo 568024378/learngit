@@ -14,3 +14,8 @@ int func(){
 	return 0;	
 }
 
+void func3(){
+	
+	
+}
+
