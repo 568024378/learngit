@@ -11,3 +11,7 @@ int func(){
 	
 	return 0;	
 }
+
+
+
+nihao a
