@@ -3,3 +3,11 @@ void main(){
 	
 	
 }
+
+
+
+int func(){
+	
+	
+	return 0;	
+}
