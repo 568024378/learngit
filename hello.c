@@ -1,7 +1,6 @@
-helllo
-
-hello
-
-hello
-
-testing ---- hello
+#include <stdio.h>
+int main(){
+	
+	
+	return 0 ;
+}
