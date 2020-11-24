@@ -12,4 +12,3 @@ int func(){
 	return 0;	
 }
 
-hello
